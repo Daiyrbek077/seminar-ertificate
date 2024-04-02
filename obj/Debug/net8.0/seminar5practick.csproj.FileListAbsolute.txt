@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Документы\seminar\seminar5practick\obj\Debug\net8.0\seminar5practick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Документы\seminar\seminar5practick\obj\Debug\net8.0\seminar5practick.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Документы\seminar\seminar5practick\obj\Debug\net8.0\seminar5practick.AssemblyInfo.cs
+C:\Users\user\OneDrive\Документы\seminar\seminar5practick\obj\Debug\net8.0\seminar5practick.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Документы\seminar\seminar5practick\bin\Debug\net8.0\seminar5practick.exe
+C:\Users\user\OneDrive\Документы\seminar\seminar5practick\bin\Debug\net8.0\seminar5practick.deps.json
+C:\Users\user\OneDrive\Документы\seminar\seminar5practick\bin\Debug\net8.0\seminar5practick.runtimeconfig.json
+C:\Users\user\OneDrive\Документы\seminar\seminar5practick\bin\Debug\net8.0\seminar5practick.dll
+C:\Users\user\OneDrive\Документы\seminar\seminar5practick\bin\Debug\net8.0\seminar5practick.pdb
+C:\Users\user\OneDrive\Документы\seminar\seminar5practick\obj\Debug\net8.0\seminar5practick.dll
+C:\Users\user\OneDrive\Документы\seminar\seminar5practick\obj\Debug\net8.0\refint\seminar5practick.dll
+C:\Users\user\OneDrive\Документы\seminar\seminar5practick\obj\Debug\net8.0\seminar5practick.pdb
+C:\Users\user\OneDrive\Документы\seminar\seminar5practick\obj\Debug\net8.0\seminar5practick.genruntimeconfig.cache
+C:\Users\user\OneDrive\Документы\seminar\seminar5practick\obj\Debug\net8.0\ref\seminar5practick.dll
